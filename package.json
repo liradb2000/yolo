@@ -8,7 +8,9 @@
     "build"
   ],
   "dependencies": {
-    "@design-express/node-scripts": "1.0.7"
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@design-express/node-scripts": "1.0.7",
+    "@tensorflow/tfjs": "^4.9.0"
   },
   "scripts": {
     "start": "node-scripts start",
